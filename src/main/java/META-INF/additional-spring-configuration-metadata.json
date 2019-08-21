@@ -1,0 +1,7 @@
+{"properties": [
+  {
+    "name": "access_token.add-userinfo",
+    "type": "java.lang.String",
+    "description": "A description for 'access_token.add-userinfo'"
+  }
+]}
